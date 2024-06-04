@@ -19,7 +19,7 @@ Here are some of the programming languages and tools I am proficient in:
 
 
 ## Get in Touch
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/karen-zhao-4899a9218/)
-- Email: [your.email@domain.com](mailto:karenzhaojia.com)
+- LinkedIn: [https://www.linkedin.com/in/karen-zhao](https://www.linkedin.com/in/karen-zhao-4899a9218/)
+- Email: [karenzhaojia.com](mailto:karenzhaojia.com)
 
 Feel free to explore my repositories and get in touch if you want to collaborate on interesting projects or just want to have a chat about technology!
