@@ -2,7 +2,7 @@
 
 
 
-Welcome to my GitHub profile! I'm a 3rd-year university student at the University of British Columbia (UBC), pursuing a degree in [Your Major]. My passion for coding and technology drives me to constantly learn and explore new areas in the field of computer science.
+Welcome to my GitHub profile! I'm a 3rd-year university student at the University of British Columbia, pursuing a degree in Computer Science. My passion for coding and technology drives me to constantly learn and explore new areas in the field of computer science.
 
 ## Languages & Tools
 Here are some of the programming languages and tools I am proficient in:
