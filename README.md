@@ -4,6 +4,8 @@
 
 Welcome to my GitHub profile! I'm a 3rd-year university student at the University of British Columbia, pursuing a degree in Computer Science.
 
+![Karen's GitHub stats](https://github-readme-stats.vercel.app/api?username=karenzhao35&show_icons=true&theme=dracula)
+
 ## Languages & Tools
 Here are some of the programming languages and tools I am proficient in:
 
