@@ -5,9 +5,6 @@
 
 I'm a 3rd-year student at the University of British Columbia, pursuing a degree in Computer Science.
 
-* ✉️  You can contact me at [karenzhaojia@gmail.com](mailto:karenzhaojia@gmail.com)
-
-
 ### Skills
 
 
