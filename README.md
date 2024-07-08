@@ -1,6 +1,6 @@
 
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Karen Zhao
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi! My name is Karen Zhao
 ==================================================================================================================================
 
 I'm a 3rd-year student at the University of British Columbia, pursuing a degree in Computer Science.
